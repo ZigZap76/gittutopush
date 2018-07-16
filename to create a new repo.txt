@@ -1,0 +1,6 @@
+echo "# gittutopush" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ZigZap76/gittutopush.git
+git push -u origin master
